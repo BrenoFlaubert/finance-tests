@@ -1,0 +1,10 @@
+# Diretórios do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do ambiente virtual
+venv/
+.env
+
